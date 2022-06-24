@@ -1,0 +1,20 @@
+[
+    {
+        "name": "LV Bags",
+        "sku": "0008",
+        "category": "boots",
+        "price": 8000
+    },
+    {
+        "name": "AB shoes",
+        "sku": "000003",
+        "category": "shoes",
+        "price": 5000
+    },
+    {
+        "name": "TA shorts",
+        "sku": "8358",
+        "category": "shorts",
+        "price": 4500
+    }
+]

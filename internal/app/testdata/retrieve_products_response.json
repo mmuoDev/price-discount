@@ -1,0 +1,41 @@
+{
+    "pageInfo": {
+        "currentPage": 1,
+        "lastPage": 1
+    },
+    "products": [
+        {
+            "name": "LV Bags",
+            "sku": "0008",
+            "category": "boots",
+            "price": {
+                "original": 8000,
+                "final": 5600,
+                "discount_percentage": "30%",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "AB shoes",
+            "sku": "000003",
+            "category": "shoes",
+            "price": {
+                "original": 5000,
+                "final": 4250,
+                "discount_percentage": "15%",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "TA shorts",
+            "sku": "8358",
+            "category": "shorts",
+            "price": {
+                "original": 4500,
+                "final": 4500,
+                "discount_percentage": "",
+                "currency": "EUR"
+            }
+        }
+    ]
+}
