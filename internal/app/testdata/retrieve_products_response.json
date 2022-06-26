@@ -9,8 +9,8 @@
             "sku": "0008",
             "category": "boots",
             "price": {
-                "original": 8000,
-                "final": 5600,
+                "original": 80,
+                "final": 56,
                 "discount_percentage": "30%",
                 "currency": "EUR"
             }
@@ -20,8 +20,8 @@
             "sku": "000003",
             "category": "shoes",
             "price": {
-                "original": 5000,
-                "final": 4250,
+                "original": 50,
+                "final": 42,
                 "discount_percentage": "15%",
                 "currency": "EUR"
             }
@@ -31,8 +31,8 @@
             "sku": "8358",
             "category": "shorts",
             "price": {
-                "original": 4500,
-                "final": 4500,
+                "original": 45,
+                "final": 45,
                 "discount_percentage": "",
                 "currency": "EUR"
             }

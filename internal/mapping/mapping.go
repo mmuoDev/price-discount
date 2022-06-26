@@ -21,8 +21,8 @@ func ToProducts(p internal.Product, d internal.Discount) pkg.Product {
 		Category: p.Category,
 		Price: pkg.Price{
 			Currency:           CURRENCY,
-			Original:           p.Price,
-			Final:              d.NewAmount,
+			Original:           p.Price/100,
+			Final:              d.NewAmount/100,
 			DiscountPercentage: percentDiscount,
 		},
 	}
